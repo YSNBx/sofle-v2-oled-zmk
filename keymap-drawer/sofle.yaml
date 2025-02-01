@@ -4,7 +4,7 @@ layers:
     LCTRL, Z, X, C, V, B, MUTE, '', N, M, ',', ., /, RSHFT, LGUI, LALT, LEFT GUI, lower, SPACE, ENTER, raise, RGUI, RALT, RGUI]
   lower:
   - '`'
-  - BT CLR
+  - BT CLR ALL
   - {t: BT, h: '0'}
   - ''
   - ''
