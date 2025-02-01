@@ -34,7 +34,7 @@ layers:
   - ''
   - ''
   - '-'
-  - KP EQUAL
+  - +
   - ''
   - '['
   - ']'
@@ -48,7 +48,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - _
-  - +
+  - KP EQUAL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
