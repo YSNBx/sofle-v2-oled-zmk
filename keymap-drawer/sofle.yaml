@@ -6,7 +6,7 @@ layers:
   - '`'
   - BT CLR ALL
   - {t: BT, h: '0'}
-  - ''
+  - {t: BT, h: '1'}
   - ''
   - ''
   - ''
@@ -48,7 +48,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - _
-  - KP EQUAL
+  - '='
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
